@@ -37,7 +37,7 @@ I'm a passionate developer and tech enthusiast on a journey to create innovative
 ---
 
 ## 🌐 Socials
-- [Twitter](https://twitter.com/yourusername)
+- [Twitter](https://x.com/amarpandey2502)
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Instagram](https://instagram.com/yourusername)
 
