@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate developer and tech enthusiast on a journey to create innovative projects and deepen my knowledge in technology. My goal is to master a wide range of skills and apply them practically to build exciting solutions integrating softwares with hardware.
 
--🌐 https://amarpandey.in
+-🌐 Portfolio - https://amarpandey.in
 
 -🌎 I am from India
 
